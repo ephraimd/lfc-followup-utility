@@ -1,0 +1,12 @@
+{
+	"settings": {
+		"jshint.options": {
+			"esversion": 6
+		}
+	},
+	"folders": [
+		{
+			"path": "."
+		}
+	]
+}
