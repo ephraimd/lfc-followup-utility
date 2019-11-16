@@ -1,6 +1,8 @@
 
 const fs = require('fs');
 
+//TODO: Add periodic db json file backup via email
+
 let db = [],
     categories = [
         { title: 'First Timers', tag: 'first-timers' },
